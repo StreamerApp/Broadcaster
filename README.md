@@ -30,7 +30,7 @@
 [![scarlet](https://user-images.githubusercontent.com/96978272/174394044-195d2d59-034d-4b4a-b6dc-145a0f454889.png)](https://spx.vercel.app/1/scarlet%3A%2F%2Finstall%3Dhttps%253A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FBroadcaster-iOS.ipa) 
 
 
-- tvOS (Works on iOS 14+)
+- tvOS (Works on iOS 15+)
   - [Download iPA](https://github.com/StreamerApp/Broadcaster/releases/latest/download/Streamer-tvOS.ipa)
   - Use [iOS App signer](https://www.iosappsigner.com/)
   - [Install via Sideloady](https://spx.vercel.app/1/sideloadly%3Ahttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-tvOS.ipa)
