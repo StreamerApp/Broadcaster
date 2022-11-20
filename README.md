@@ -16,7 +16,7 @@
 </p>
 
 ## Installation 
-- iOS (Works on iOS 14+)
+- iOS (Works on iOS 15+)
   - [Download iPA](https://github.com/StreamerApp/Broadcaster/releases/latest/download/Broadcaster-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FBroadcaster-iOS.ipa) 
   - [AltStore Source](https://raw.githubusercontent.com/StreamerApp/Broadcaster/main/altstore.json)
