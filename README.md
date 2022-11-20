@@ -1,5 +1,12 @@
+
+<div align="center">
+
 # Broadcaster
-Watch all your favorite tv channels live on your iPhone, Apple TV, or your Mac
+ <a href="">
+    <img src="https://user-images.githubusercontent.com/96978272/202916799-7d54e9f1-c410-45a8-9462-fc6dda2f4a1b.png" width="400" height="240">
+  </a>
+<p>Watch all your favorite tv channels live on your iPhone, Apple TV, or your Mac</p>
+</div>
 
 <p align="center">
    <a href="https://discord.gg/XhZwzuwKPM"><img src="https://invidget.switchblade.xyz/XhZwzuwKPM" style="height: 88px !important;width: 344px !important></a>
