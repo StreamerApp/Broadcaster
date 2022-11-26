@@ -36,9 +36,7 @@
   - [Install via Sideloady](https://spx.vercel.app/1/sideloadly%3Ahttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-tvOS.ipa)
 
 ## Screenshots
-![iOS1](https://user-images.githubusercontent.com/96978272/202915998-6005a22c-20ea-4414-b05c-bcc7f6b2dd5e.png)
-![iOS2](https://user-images.githubusercontent.com/96978272/202915987-2dd7f3c8-4cd9-4432-8758-58d4deca8f1e.png)
-![tvos1](https://user-images.githubusercontent.com/96978272/202915992-7bec82c9-41d1-4663-8f68-17d396072ad4.png)
-![mac1](https://user-images.githubusercontent.com/96978272/202916089-98c7a67c-61b8-430a-93bb-e7c363863d47.png)
-
-
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-26 at 11 24 31](https://user-images.githubusercontent.com/96978272/204102248-1fd94518-db83-40f5-91d6-641c1638d9be.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-26 at 11 25 04](https://user-images.githubusercontent.com/96978272/204102246-85db3d2c-3634-4920-a8b8-8daae0da7cc2.png)
+![Simulator Screen Shot - Apple TV - 2022-11-26 at 10 17 01](https://user-images.githubusercontent.com/96978272/204102252-7e38587b-5fa2-4a15-baeb-ff80a8dde5d3.png)
+<img width="627" alt="Screenshot 2022-11-26 at 8 03 14 AM" src="https://user-images.githubusercontent.com/96978272/204102261-f6fae574-c601-477c-ad13-7cb61901c73c.png">
